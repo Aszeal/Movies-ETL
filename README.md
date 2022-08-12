@@ -1,4 +1,4 @@
-*** Amazing Prime ***
+***Amazing Prime***
 
 
 
