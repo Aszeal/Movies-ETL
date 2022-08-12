@@ -4,4 +4,4 @@ A project was assigned by Britta to create an automated pipeline that takes in n
 
 Below is a screenshot of the Movies_Metadata as a result of the csv file being to large to import.
 
-![image](https://user-images.githubusercontent.com/104403818/184277378-3d4e116b-2760-4391-a3c4-f35247c38262.png)
+![Movies-ETL](https://github.com/Aszeal/Movies-ETL/blob/main/Screenshot%20(92).png)
